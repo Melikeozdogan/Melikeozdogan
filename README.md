@@ -16,6 +16,7 @@
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
 <a href="https://www.python.org/" target="_blank" rel=”noopener”> <img src="https://img.icons8.com/color/480/000000/python--v1.png" alt="python" width="30" height="30"/> </a> 
+  <a href="https://www.java.com/tr/" target="_blank" rel=”noopener”> <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" alt="python" width="30" height="30"/> </a>
 <a href="https://cplusplus.com/" target="_blank" rel=”noopener”> <img src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" alt="c++" width="33" height="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel=”noopener”> <img src="https://img.icons8.com/ios-filled/50/000000/mysql.png" alt="mysql" width="30" height="30"/> </a>   
