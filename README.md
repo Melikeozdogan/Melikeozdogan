@@ -1,7 +1,6 @@
   <h2 align="center">Hello there! 🚀 I'm Melike</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Melikeozdogan&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true" alt="cengizcmataraci" /></a> </p>
-<p>
+
   
 - 🌱 I’m currently working with **Data Science and Artificial İntelligence.**
 
