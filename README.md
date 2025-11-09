@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/L6j2m6q/coding-girl-wide.gif" alt="Coding Girl" width="70%"/>
+</p>
+
 <h2 align="center">✨ Hello there! I'm Melike 🚀</h2>
 
 <p align="center">
@@ -27,18 +31,15 @@
 ### 🛠️ Technologies I Work With
 
 <p align="left"> 
-  <!-- Backend / Languages -->
   <a><img src="https://img.icons8.com/color/48/c-sharp-logo.png" width="30"/></a>
   <a><img src="https://img.icons8.com/color/48/net-framework.png" width="30"/></a>
   <a><img src="https://img.icons8.com/color/48/python.png" width="30"/></a>
 
-  <!-- Databases -->
   <a><img src="https://img.icons8.com/color/48/postgreesql.png" width="30"/></a>
   <a><img src="https://img.icons8.com/color/48/mongodb.png" width="30"/></a>
   <a><img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" width="30"/></a>
   <a><img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="30"/></a>
 
-  <!-- Tools -->
   <a><img src="https://img.icons8.com/dusk/64/postman-api.png" width="30"/></a>
   <a><img src="https://img.icons8.com/color/48/docker.png" width="30"/></a>
   <a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/></a>
