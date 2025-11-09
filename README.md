@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/L6j2m6q/coding-girl-wide.gif" alt="Coding Girl" width="70%"/>
+<img src="https://cdn.jsdelivr.net/gh/Melikeozdogan/Melikeozdogan/Gemini_Generated_Image_ttdt0xttdt0xttdt.png" alt="Coding Girl" width="50%"/>
 </p>
 
 <h2 align="center">✨ Hello there! I'm Melike 🚀</h2>
